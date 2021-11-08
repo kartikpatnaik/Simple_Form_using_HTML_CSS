@@ -1,0 +1,39 @@
+
+body{
+	max-width: 500px;
+	margin:auto;
+	padding: 10px;
+	
+
+
+}
+input[type=text]{
+	margin: 8px;
+	text-align: left;
+}
+
+.a{
+	margin:auto;
+
+}
+input[type=submit]{
+	background-color: #FF0000;
+	color: white;
+
+}
+input[type=text], input[type=date], input[type=number], input[type=email]{
+	width: 100%;
+	border:2px solid black;
+	padding: 8px;
+}
+input[type=submit]{
+	
+	margin:top;
+	text-align: right;
+}
+.aa{
+	float: left;
+}
+.ab{
+	float: right;
+}
